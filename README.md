@@ -5,7 +5,7 @@ A compiler-oriented AI-chip simulation and evaluation framework for LLM workload
 
 ## Overview
 
-Simulator-v2 is the second-generation evolution of the original Simulator-v1 framework.  
+GAMMA-v2 is the second-generation evolution of the original GAMMA-v1 framework.  
 It keeps the original idea of combining compiler techniques and system-level simulation, but shifts the workflow from a largely manual, benchmark-specific pipeline to a **structured, compiler-driven, artifact-producing flow** that is better suited to modern LLM and AI-chip evaluation.
 
 At a high level, GAMMA-v2 introduces:
